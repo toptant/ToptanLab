@@ -1,8 +1,9 @@
 source "https://rubygems.org"
 
 # jekyll
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.4"
 gem "webrick", "~> 1.7"
+gem "jekyll-sass-converter", "~> 3.0"
 
 gem "html-proofer", "~> 5.0"
 
