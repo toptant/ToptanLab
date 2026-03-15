@@ -26,7 +26,7 @@ We investigate host factors and broad-spectrum antivirals, coronavirus nucleocap
 
 {%
   include feature.html
-  image="images/research-nprotein-functions.png"
+  image=""
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ We are seeking highly motivated students and researchers to join our lab. Explor
 
 {%
   include feature.html
-  image="images/research-bac-workflow.png"
+  image=""
   link="join"
   title="Join Us"
   text=text

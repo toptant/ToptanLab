@@ -23,19 +23,25 @@ To systematically identify these host factors, we perform large-scale functional
 
 {% include figure.html image="images/research-pri724.png" caption="Figure 1: Inhibition of SARS-CoV-2 and SARS-CoV-1 by PRI-724. (A) Dose-response curves of diverse SARS-CoV-2 mutational variants and SARS-CoV-1 to PRI-724 and Remdesivir. (B) Staining of SARS-CoV-2 and SARS-CoV-1 N protein 18 hpi." %}
 
-A key strength of our research is the integration of physiologically relevant infection models such as primary human airway epithelial cells cultured at air-liquid interface (ALI), precision-cut lung slices (PCLS) as ex vivo tissue models, primary fibroblasts, and other primary human cell systems into both screening and validation pipelines. In collaboration with partners in APPEAL we combine experimental screening with high-density cell array (HDCA) technology and machine-learning-based data analysis to identify host dependency factors (HDFs), host restriction factors (HRFs), and candidate antiviral compounds.
+A key strength of our research is the integration of physiologically relevant infection models such as primary human airway epithelial cells cultured at air-liquid interface (ALI), precision-cut lung slices (PCLS) as ex vivo tissue models, primary fibroblasts, and other primary human cell systems into both screening and validation pipelines. In collaboration with partners in [APPEAL](https://www.project-appeal.eu/) we combine experimental screening with high-density cell array (HDCA) technology and machine-learning-based data analysis to identify host dependency factors (HDFs), host restriction factors (HRFs), and candidate antiviral compounds.
 
 {% include section.html %}
 
 ## 2. Role of CoV Nucleocapsid Phosphorylation in Virus Life Cycle
 
-As part of the LOEWE-CoroPan consortium, together with Nadine Biedenkopf we investigate the role of coronavirus nucleocapsid protein in virus life cycle.
+As part of the LOEWE-CoroPan consortium, together with [Nadine Biedenkopf](https://www.uni-marburg.de/de/fb20/bereiche/ziei/virologie/forschung/arbeitsgruppe-nadine-biedenkopf) we investigate the role of coronavirus nucleocapsid protein in virus life cycle.
 
 The coronavirus nucleocapsid (N) protein plays a central role in viral RNA synthesis, genome packaging, and transcription of subgenomic mRNAs. Phosphorylation within a conserved arginine-serine-rich (R/S) region is critical for the multifunctional activity of this protein.
 
-{% include figure.html image="images/research-nprotein-phospho.png" caption="Reported phosphorylation sites of SARS-CoV-2 N protein and the highly conserved Arginine/Serine (R/S)-domain across coronaviruses." %}
+{% capture col1 %}
+{% include figure.html image="images/research-nprotein-functions.png" height="250px" caption="Multifunctional roles of the coronavirus nucleocapsid (N) protein in viral RNA synthesis, assembly, stress granule formation, and host translational shut-off." %}
+{% endcapture %}
 
-{% include figure.html image="images/research-nprotein-functions.png" caption="Multifunctional roles of the coronavirus nucleocapsid (N) protein in viral RNA synthesis, assembly, stress granule formation, and host translational shut-off." %}
+{% capture col2 %}
+{% include figure.html image="images/research-nprotein-phospho.png" height="250px" caption="Reported phosphorylation sites of SARS-CoV-2 N protein and the highly conserved Arginine/Serine (R/S)-domain across coronaviruses." %}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
 
 To dissect these regulatory mechanisms, we generate recombinant coronaviruses using bacterial artificial chromosome (BAC) technology. Using en passant mutagenesis, we introduce targeted mutations or reporter genes into viral genomes, enabling precise analysis of how nucleocapsid phosphorylation influences viral replication and transcription.
 
@@ -45,7 +51,7 @@ To dissect these regulatory mechanisms, we generate recombinant coronaviruses us
 
 ## 3. Role of Mixed Lineage Kinase Domain Like Pseudokinase (MLKL) in Virus Infections
 
-In collaboration with Sjoerd van Wijk, we investigate how mixed lineage kinase domain-like pseudokinase (MLKL) regulates viral infection.
+In collaboration with [Sjoerd van Wijk](https://www.sjoerdjlvanwijk.de/), we investigate how mixed lineage kinase domain-like pseudokinase (MLKL) regulates viral infection.
 
 MLKL is best known as the executioner of necroptotic cell death, an important innate immune defense mechanism. However, recent evidence suggests that MLKL can also restrict viral replication through non-lytic mechanisms independent of cell death.
 

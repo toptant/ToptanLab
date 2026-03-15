@@ -6,8 +6,9 @@ description: Dr. med., Group Leader
 affiliation: Technical University of Munich
 links:
   email: tuna.toptan@tum.de
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  orcid: 0000-0002-5399-9263
+  google-scholar: 7diTetAAAAAJ
+  linkedin: tuna-toptan-grabmair-29873621
 ---
 
 Resident in Medical Microbiology, Virology and Infection Epidemiology.

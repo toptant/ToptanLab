@@ -1,0 +1,635 @@
+# Auto-generated from PubMed. Do not edit manually.
+# Run: ruby _scripts/fetch-publications.rb
+
+---
+- id: pmid-40988039
+  title: A composite symptoms severity score based on survey self-reports as a predictor
+    of SARS-CoV-2 infection and viral load
+  authors:
+  - Diaz D
+  - Canchola JA
+  - Groh AM
+  - Toptan T
+  - Jarem D
+  - Kuchta AL
+  - Moonsamy P
+  - Berger A
+  - Vehreschild MJGT
+  - Ciesek S
+  publisher: BMC infectious diseases
+  date: 2025-Sep-23
+  link: https://doi.org/10.1186/s12879-025-11653-4
+- id: pmid-40986174
+  title: 'Temporal Dynamics of SARS-CoV-2 Detection in Household Contacts: Divergences
+    Between Time to First Positive Test, Symptom Onset, and Maximum Viral Load'
+  authors:
+  - Berger A
+  - Groh AM
+  - Diaz D
+  - Canchola JA
+  - Toptan T
+  - Ciesek S
+  - Jarem D
+  - Kuchta AL
+  - Moonsamy P
+  - Vehreschild MJGT
+  publisher: Infectious diseases and therapy
+  date: 2025-Nov-01
+  link: https://doi.org/10.1007/s40121-025-01235-x
+- id: pmid-38811590
+  title: Kinetics of SARS-CoV-2 infection biomarkers in a household transmission study
+  authors:
+  - Groh AM
+  - Vehreschild MJGT
+  - Diaz D
+  - Kuchta AL
+  - Dodoo C
+  - Alvarado LA
+  - Parkin NT
+  - Robbins EM
+  - Moonsamy P
+  - Toptan T
+  - Ciesek S
+  - Berger A
+  publisher: Scientific reports
+  date: 2024-May-29
+  link: https://doi.org/10.1038/s41598-024-62835-0
+  _image_disabled: images/publications/10.1038-s41598-024-62835-0.png
+- id: pmid-37273239
+  title: Pathogenetic mechanisms and therapeutic approaches of acute-to-chronic liver
+    failure
+  authors:
+  - Schierwagen R
+  - Gu W
+  - Brieger A
+  - Brüne B
+  - Ciesek S
+  - Đikić I
+  - Dimmeler S
+  - Geisslinger G
+  - Greten FR
+  - Hermann E
+  - Hildt E
+  - Kempf VAJ
+  - Klein S
+  - Koch I
+  - Mühl H
+  - Müller V
+  - Peiffer KH
+  - Kestner RI
+  - Piiper A
+  - Rohde G
+  - Scholich K
+  - Schulz MH
+  - Storf H
+  - Toptan T
+  - Vasa-Nicotera M
+  - Vehreschild MJGT
+  - Weigert A
+  - Wild PJ
+  - Zeuzem S
+  - Engelmann C
+  - ACLF-I Investigators,
+  - Schaefer L
+  - Welsch C
+  - Trebicka J
+  publisher: American journal of physiology. Cell physiology
+  date: 2023-Jul-1
+  link: https://doi.org/10.1152/ajpcell.00101.2023
+- id: pmid-36644320
+  title: Identification of novel antiviral drug candidates using an optimized SARS-CoV-2
+    phenotypic screening platform
+  authors:
+  - Bojkova D
+  - Reus P
+  - Panosch L
+  - Bechtel M
+  - Rothenburger T
+  - Kandler JD
+  - Pfeiffer A
+  - Wagner JUG
+  - Shumliakivska M
+  - Dimmeler S
+  - Olmer R
+  - Martin U
+  - Vondran FWR
+  - Toptan T
+  - Rothweiler F
+  - Zehner R
+  - Rabenau HF
+  - Osman KL
+  - Pullan ST
+  - Carroll MW
+  - Stack R
+  - Ciesek S
+  - Wass MN
+  - Michaelis M
+  - Cinatl J Jr
+  publisher: iScience
+  date: 2023-Feb-17
+  link: https://doi.org/10.1016/j.isci.2023.105944
+- id: pmid-37327554
+  title: Comparison of the Ct-values for genomic and subgenomic SARS-CoV-2 RNA reveals
+    limited predictive value for the presence of replication competent virus
+  authors:
+  - Roesmann F
+  - Jakobsche I
+  - Pallas C
+  - Wilhelm A
+  - Raffel J
+  - Kohmer N
+  - Toptan T
+  - Berger A
+  - Goetsch U
+  - Ciesek S
+  - Widera M
+  publisher: 'Journal of clinical virology : the official publication of the Pan American
+    Society for Clinical Virology'
+  date: 2023-Aug-01
+  link: https://doi.org/10.1016/j.jcv.2023.105499
+- id: pmid-37342561
+  title: Machine learning on large scale perturbation screens for SARS-CoV-2 host
+    factors identifies β-catenin/CBP inhibitor PRI-724 as a potent antiviral
+  authors:
+  - Kelch MA
+  - Vera-Guapi A
+  - Beder T
+  - Oswald M
+  - Hiemisch A
+  - Beil N
+  - Wajda P
+  - Ciesek S
+  - Erfle H
+  - Toptan T
+  - Koenig R
+  publisher: Frontiers in microbiology
+  date: '2023-01-01'
+  link: https://doi.org/10.3389/fmicb.2023.1193320
+- id: pmid-36507731
+  title: The Relapse Phenomenon in Mild COVID Treated With Nirmatrelvir/Ritonavir
+    in an Immunocompetent Patient
+  authors:
+  - Hoehl S
+  - Toptan T
+  - Rabenau HF
+  - Ciesek S
+  publisher: Deutsches Arzteblatt international
+  date: 2022-Sep-16
+  link: https://doi.org/10.3238/arztebl.m2022.0267
+- id: pmid-36146823
+  title: Molecular Analyses of Clinical Isolates and Recombinant SARS-CoV-2 Carrying
+    B.1 and B.1.617.2 Spike Mutations Suggest a Potential Role of Non-Spike Mutations
+    in Infection Kinetics
+  authors:
+  - Veleanu A
+  - Kelch MA
+  - Ye C
+  - Flohr M
+  - Wilhelm A
+  - Widera M
+  - Martinez-Sobrido L
+  - Ciesek S
+  - Toptan T
+  publisher: Viruses
+  date: 2022-Sep-12
+  link: https://doi.org/10.3390/v14092017
+  _image_disabled: images/publications/10.3390-v14092017.png
+- id: pmid-35834885
+  title: Limited neutralisation of the SARS-CoV-2 Omicron subvariants BA.1 and BA.2
+    by convalescent and vaccine serum and monoclonal antibodies
+  authors:
+  - Wilhelm A
+  - Widera M
+  - Grikscheit K
+  - Toptan T
+  - Schenk B
+  - Pallas C
+  - Metzler M
+  - Kohmer N
+  - Hoehl S
+  - Marschalek R
+  - Herrmann E
+  - Helfritz FA
+  - Wolf T
+  - Goetsch U
+  - Ciesek S
+  publisher: EBioMedicine
+  date: 2022-Aug-01
+  link: https://doi.org/10.1016/j.ebiom.2022.104158
+- id: pmid-35821813
+  title: Low But Recoverable Markers of Humoral Immune Response to BNT162b2 in Elderly
+    LTCF Residents Five to Seven Months After Two-Dose Vaccination
+  authors:
+  - Delbrück M
+  - Hoehl S
+  - Toptan T
+  - Schenk B
+  - Grikscheit K
+  - Metzler M
+  - Herrmann E
+  - Ciesek S
+  publisher: Frontiers in aging
+  date: '2022-01-01'
+  link: https://doi.org/10.3389/fragi.2022.883724
+- id: pmid-33477365
+  title: The Comparative Clinical Performance of Four SARS-CoV-2 Rapid Antigen Tests
+    and Their Correlation to Infectivity In Vitro
+  authors:
+  - Kohmer N
+  - Toptan T
+  - Pallas C
+  - Karaca O
+  - Pfeiffer A
+  - Westhaus S
+  - Widera M
+  - Berger A
+  - Hoehl S
+  - Kammel M
+  - Ciesek S
+  - Rabenau HF
+  publisher: Journal of clinical medicine
+  date: 2021-Jan-17
+  link: https://doi.org/10.3390/jcm10020328
+  _image_disabled: images/publications/10.3390-jcm10020328.png
+- id: pmid-33352470
+  title: 'Evaluation of a SARS-CoV-2 rapid antigen test: Potential to help reduce
+    community spread?'
+  authors:
+  - Toptan T
+  - Eckermann L
+  - Pfeiffer AE
+  - Hoehl S
+  - Ciesek S
+  - Drosten C
+  - Corman VM
+  publisher: 'Journal of clinical virology : the official publication of the Pan American
+    Society for Clinical Virology'
+  date: 2021-Feb-01
+  link: https://doi.org/10.1016/j.jcv.2020.104713
+- id: pmid-34578275
+  title: Antibody-Mediated Neutralization of Authentic SARS-CoV-2 B.1.617 Variants
+    Harboring L452R and T478K/E484Q
+  authors:
+  - Wilhelm A
+  - Toptan T
+  - Pallas C
+  - Wolf T
+  - Goetsch U
+  - Gottschalk R
+  - Vehreschild MJGT
+  - Ciesek S
+  - Widera M
+  publisher: Viruses
+  date: 2021-Aug-26
+  link: https://doi.org/10.3390/v13091693
+  _image_disabled: images/publications/10.3390-v13091693.png
+- id: pmid-34114556
+  title: High-Frequency Self-Testing by Schoolteachers for Sars-Cov-2 Using a Rapid
+    Antigen Test–Results of the Safe School Hesse study
+  authors:
+  - Hoehl S
+  - Schenk B
+  - Rudych O
+  - Göttig S
+  - Foppa I
+  - Kohmer N
+  - Karaca O
+  - Toptan T
+  - Ciesek S
+  publisher: Deutsches Arzteblatt international
+  date: 2021-Apr-9
+  link: https://doi.org/10.3238/arztebl.m2021.0187
+- id: pmid-33918332
+  title: Surveillance of SARS-CoV-2 in Frankfurt am Main from October to December
+    2020 Reveals High Viral Diversity Including Spike Mutation N501Y in B.1.1.70 and
+    B.1.1.7
+  authors:
+  - Widera M
+  - Mühlemann B
+  - Corman VM
+  - Toptan T
+  - Beheim-Schwarzbach J
+  - Kohmer N
+  - Schneider J
+  - Berger A
+  - Veith T
+  - Pallas C
+  - Bleicker T
+  - Goetsch U
+  - Tesch J
+  - Gottschalk R
+  - Jones TC
+  - Ciesek S
+  - Drosten C
+  publisher: Microorganisms
+  date: 2021-Apr-2
+  link: https://doi.org/10.3390/microorganisms9040748
+  _image_disabled: images/publications/10.3390-microorganisms9040748.jpg
+- id: pmid-33973180
+  title: Pediatrics and COVID-19
+  authors:
+  - Toptan T
+  - Ciesek S
+  - Hoehl S
+  publisher: Advances in experimental medicine and biology
+  date: '2021-01-01'
+  link: https://doi.org/10.1007/978-3-030-63761-3_12
+- id: pmid-34394046
+  title: Generation of a Sleeping Beauty Transposon-Based Cellular System for Rapid
+    and Sensitive Screening for Compounds and Cellular Factors Limiting SARS-CoV-2
+    Replication
+  authors:
+  - Widera M
+  - Wilhelm A
+  - Toptan T
+  - Raffel JM
+  - Kowarz E
+  - Roesmann F
+  - Grözinger F
+  - Siemund AL
+  - Luciano V
+  - Külp M
+  - Reis J
+  - Bracharz S
+  - Pallas C
+  - Ciesek S
+  - Marschalek R
+  publisher: Frontiers in microbiology
+  date: '2021-01-01'
+  link: https://doi.org/10.3389/fmicb.2021.701198
+- id: pmid-32790216
+  title: 'Case Series of Headache Characteristics in COVID-19: Headache Can Be an
+    Isolated Symptom'
+  authors:
+  - Toptan T
+  - Aktan Ç
+  - Başarı A
+  - Bolay H
+  publisher: Headache
+  date: 2020-Sep-01
+  link: https://doi.org/10.1111/head.13940
+- id: pmid-33055416
+  title: Proteomic approach to discover human cancer viruses from formalin-fixed tissues
+  authors:
+  - Toptan T
+  - Cantrell PS
+  - Zeng X
+  - Liu Y
+  - Sun M
+  - Yates NA
+  - Chang Y
+  - Moore PS
+  publisher: JCI insight
+  date: 2020-Nov-19
+  link: https://doi.org/10.1172/jci.insight.143003
+- id: pmid-32575728
+  title: Optimized qRT-PCR Approach for the Detection of Intra- and Extra-Cellular
+    SARS-CoV-2 RNAs
+  authors:
+  - Toptan T
+  - Hoehl S
+  - Westhaus S
+  - Bojkova D
+  - Berger A
+  - Rotter B
+  - Hoffmeier K
+  - Cinatl J Jr
+  - Ciesek S
+  - Widera M
+  publisher: International journal of molecular sciences
+  date: 2020-Jun-20
+  link: https://doi.org/10.3390/ijms21124396
+  _image_disabled: images/publications/10.3390-ijms21124396.jpg
+- id: pmid-31911496
+  title: Kaposi's Sarcoma-Associated Herpesvirus-Encoded circRNAs Are Expressed in
+    Infected Tumor Tissues and Are Incorporated into Virions
+  authors:
+  - Abere B
+  - Li J
+  - Zhou H
+  - Toptan T
+  - Moore PS
+  - Chang Y
+  publisher: mBio
+  date: 2020-Jan-7
+  link: https://doi.org/10.1128/mBio.03027-19
+- id: pmid-33323517
+  title: Merkel Cell Polyomavirus Encodes Circular RNAs (circRNAs) Enabling a Dynamic
+    circRNA/microRNA/mRNA Regulatory Network
+  authors:
+  - Abere B
+  - Zhou H
+  - Li J
+  - Cao S
+  - Toptan T
+  - Grundhoff A
+  - Fischer N
+  - Moore PS
+  - Chang Y
+  publisher: mBio
+  date: 2020-Dec-15
+  link: https://doi.org/10.1128/mBio.03059-20
+- id: pmid-31008165
+  title: Widespread keratosis pilaris-like eruption in an immunocompromised child
+  authors:
+  - Frigerio A
+  - Toptan T
+  - Chang Y
+  - Abbott J
+  - Cipriano SD
+  - Bowen AR
+  publisher: JAAD case reports
+  date: 2019-Apr-01
+  link: https://doi.org/10.1016/j.jdcr.2019.02.001
+- id: pmid-30150410
+  title: Circular DNA tumor viruses make circular RNAs
+  authors:
+  - Toptan T
+  - Abere B
+  - Nalesnik MA
+  - Swerdlow SH
+  - Ranganathan S
+  - Lee N
+  - Shair KH
+  - Moore PS
+  - Chang Y
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: 2018-Sep-11
+  link: https://doi.org/10.1073/pnas.1811728115
+- id: pmid-29064138
+  title: 'Treatment of human polyomavirus-7-associated rash and pruritus with topical
+    cidofovir in a lung transplant patient: Case report and literature review'
+  authors:
+  - Smith SDB
+  - Erdag G
+  - Cuda JD
+  - Rangwala S
+  - Girardi N
+  - Bibee K
+  - Orens JB
+  - Prono MD
+  - Toptan T
+  - Loss MJ
+  publisher: 'Transplant infectious disease : an official journal of the Transplantation
+    Society'
+  date: 2018-Feb-01
+  link: https://doi.org/10.1111/tid.12793
+- id: pmid-29696010
+  title: Characterization of a Merkel Cell Polyomavirus-Positive Merkel Cell Carcinoma
+    Cell Line CVG-1
+  authors:
+  - Velásquez C
+  - Amako Y
+  - Harold A
+  - Toptan T
+  - Chang Y
+  - Shuda M
+  publisher: Frontiers in microbiology
+  date: '2018-01-01'
+  link: https://doi.org/10.3389/fmicb.2018.00713
+- id: pmid-30589865
+  title: Limited detection of human polyomaviruses in Fanconi anemia related squamous
+    cell carcinoma
+  authors:
+  - Toptan T
+  - Brusadelli MG
+  - Turpin B
+  - Witte DP
+  - Surrallés J
+  - Velleuer E
+  - Schramm M
+  - Dietrich R
+  - Brakenhoff RH
+  - Moore PS
+  - Chang Y
+  - Wells SI
+  publisher: PloS one
+  date: '2018-01-01'
+  link: https://doi.org/10.1371/journal.pone.0209235
+  _image_disabled: images/publications/10.1371-journal.pone.0209235.jpg
+- id: pmid-28028546
+  title: Identification and Characterization of Novel Rat Polyomavirus 2 in a Colony
+    of X-SCID Rats by P-PIT assay
+  authors:
+  - Rigatti LH
+  - Toptan T
+  - Newsome JT
+  - Moore PS
+  - Chang Y
+  publisher: mSphere
+  date: 2016-Nov-01
+  link: https://doi.org/10.1128/mSphere.00334-16
+- id: pmid-27034991
+  title: Survey for human polyomaviruses in cancer
+  authors:
+  - Toptan T
+  - Yousem SA
+  - Ho J
+  - Matsushima Y
+  - Stabile LP
+  - Fernández-Figueras MT
+  - Bhargava R
+  - Ryo A
+  - Moore PS
+  - Chang Y
+  publisher: JCI insight
+  date: 2016-Feb-01
+  link: https://doi.org/10.1172/jci.insight.85562
+- id: pmid-26385761
+  title: Merkel cell polyomavirus T antigens promote cell proliferation and inflammatory
+    cytokine gene expression
+  authors:
+  - Richards KF
+  - Guastafierro A
+  - Shuda M
+  - Toptan T
+  - Moore PS
+  - Chang Y
+  publisher: The Journal of general virology
+  date: 2015-Dec-01
+  link: https://doi.org/10.1099/jgv.0.000287
+  _image_disabled: images/publications/10.1099-jgv.0.000287.png
+- id: pmid-28058343
+  title: 'Neurosyphilis: a case report'
+  authors:
+  - Toptan T
+  - Ozdilek B
+  - Kenangil G
+  - Ulker M
+  - Domac FM
+  publisher: Northern clinics of Istanbul
+  date: '2015-01-01'
+  link: https://doi.org/10.14744/nci.2015.96268
+- id: pmid-25271323
+  title: Human DNA tumor viruses generate alternative reading frame proteins through
+    repeat sequence recoding
+  authors:
+  - Kwun HJ
+  - Toptan T
+  - Ramos da Silva S
+  - Atkins JF
+  - Moore PS
+  - Chang Y
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: 2014-Oct-14
+  link: https://doi.org/10.1073/pnas.1416122111
+- id: pmid-23255808
+  title: Complex alternative cytoplasmic protein isoforms of the Kaposi's sarcoma-associated
+    herpesvirus latency-associated nuclear antigen 1 generated through noncanonical
+    translation initiation
+  authors:
+  - Toptan T
+  - Fonseca L
+  - Kwun HJ
+  - Chang Y
+  - Moore PS
+  publisher: Journal of virology
+  date: 2013-Mar-01
+  link: https://doi.org/10.1128/JVI.03061-12
+- id: pmid-22572880
+  title: Survivin is a therapeutic target in Merkel cell carcinoma
+  authors:
+  - Arora R
+  - Shuda M
+  - Guastafierro A
+  - Feng H
+  - Toptan T
+  - Tolstov Y
+  - Normolle D
+  - Vollmer LL
+  - Vogt A
+  - Dömling A
+  - Brodsky JL
+  - Chang Y
+  - Moore PS
+  publisher: Science translational medicine
+  date: 2012-May-9
+  link: https://doi.org/10.1126/scitranslmed.3003713
+- id: pmid-21454559
+  title: Merkel cell polyomavirus large T antigen disrupts lysosome clustering by
+    translocating human Vam6p from the cytoplasm to the nucleus
+  authors:
+  - Liu X
+  - Hein J
+  - Richardson SC
+  - Basse PH
+  - Toptan T
+  - Moore PS
+  - Gjoerup OV
+  - Chang Y
+  publisher: The Journal of biological chemistry
+  date: 2011-May-13
+  link: https://doi.org/10.1074/jbc.M110.192856
+- id: pmid-20164858
+  title: Rhadinovirus vector-derived human telomerase reverse transcriptase expression
+    in primary T cells
+  authors:
+  - Toptan T
+  - Ensser A
+  - Fickenscher H
+  publisher: Gene therapy
+  date: 2010-May-01
+  link: https://doi.org/10.1038/gt.2010.3
+  _image_disabled: images/publications/10.1038-gt.2010.3.jpg
