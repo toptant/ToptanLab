@@ -100,48 +100,69 @@ nav > a:hover {
   color: var(--primary);
 }
 
-@media (max-width: 700px) {
-  header:not([data-big]) {
-    justify-content: flex-end;
-  }
-  header:not([data-big]) .nav-toggle {
-    display: flex;
-  }
-  header:not([data-big]) .nav-toggle:not(:checked) + nav {
-    display: none;
-  }
-  header:not([data-big]) nav {
-    align-items: flex-end;
-    flex-direction: column;
-    width: 100%;
-  }
+.banner-bar {
+  display: flex;
+  padding: 8px 20px;
+  background: rgba(255, 255, 255, 0.92);
+  color: #1a1a1a;
+  z-index: 2;
+}
+.banner-bar a, .banner-bar a:hover {
+  color: #1a1a1a;
+}
+
+.banner-bar-bottom {
+  justify-content: center;
+}
+.banner-bar-bottom nav {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  font-size: 1.1rem;
+}
+.banner-bar-bottom nav > a:hover {
+  color: var(--primary);
 }
 
 header[data-big] {
-  justify-content: center;
-  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
   flex-direction: column;
-  padding: 100px 20px;
+  flex-wrap: nowrap;
+  gap: 0;
+  padding: 0;
+  min-height: 280px;
+  margin-bottom: -30px;
+  overflow: hidden;
   top: unset;
 }
-header[data-big] .home {
-  flex-direction: column;
+header[data-big] .banner-bar-top {
+  justify-content: center;
+}
+header[data-big] .banner-bar-top .home {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  flex-basis: auto;
   flex-grow: 0;
+  gap: 8px;
 }
-header[data-big] .logo {
-  height: 80px;
-  flex-shrink: 0;
+header[data-big] .banner-bar-top .title-text {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
 }
-header[data-big] .title-text {
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
+header[data-big] .banner-bar-top .title {
+  font-size: 2rem;
 }
-header[data-big] .title {
-  font-size: var(--xxl);
+header[data-big] .banner-bar-top .subtitle {
+  font-size: 1.4rem;
+  opacity: 0.65;
+  font-weight: var(--thin);
 }
-header[data-big] .subtitle {
-  font-size: var(--large);
+header[data-big].background:before {
+  opacity: 1;
 }
 
 /*# sourceMappingURL=header.css.map */
