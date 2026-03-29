@@ -2,6 +2,7 @@
 name: Srinivas Pallerla
 image: images/member-srinivas-pallerla.jpeg
 role: postdoc
+date: 2000-01-01
 description: PhD, Postdoctoral Researcher
 affiliation: Goethe University Frankfurt
 links:

@@ -7,25 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-{% include section.html %}
-
-## Principal Investigator
-
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-
-{% include section.html %}
-
-## Postdoctoral Researchers
-
-{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include portrait.html lookup="tuna-toptan-grabmair" %}
+{% include portrait.html lookup="matteo-rizzato" %}
+{% include portrait.html lookup="srinivas-pallerla" %}
 
 {% include section.html %}
 
 ## Former Members
 
-- Maximilian A. Kelch
-- Jeremy de Sousa, PhD
-- Andrei Veleanu
-- Melaine Flohr
-- Selcan Ciftsuren
-- Louisa Kusch
+- Maximilian A. Kelch - PhD candidate
+- Jeremy de Sousa - Postdoctoral Fellow
+- Andrei Veleanu - Intern; Bachelor Student; Research Assistant
+- Melanie Flohr - Intern; Bachelor Student
+- Selcan Ciftsuren - Intern
+- Louisa Kusch - Intern

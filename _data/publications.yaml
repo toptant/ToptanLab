@@ -357,17 +357,6 @@
   publisher: Frontiers in microbiology
   date: '2021-01-01'
   link: https://doi.org/10.3389/fmicb.2021.701198
-- id: pmid-32790216
-  title: 'Case Series of Headache Characteristics in COVID-19: Headache Can Be an
-    Isolated Symptom'
-  authors:
-  - Toptan T
-  - Aktan Ç
-  - Başarı A
-  - Bolay H
-  publisher: Headache
-  date: 2020-Sep-01
-  link: https://doi.org/10.1111/head.13940
 - id: pmid-33055416
   title: Proteomic approach to discover human cancer viruses from formalin-fixed tissues
   authors:
@@ -550,17 +539,6 @@
   date: 2015-Dec-01
   link: https://doi.org/10.1099/jgv.0.000287
   _image_disabled: images/publications/10.1099-jgv.0.000287.png
-- id: pmid-28058343
-  title: 'Neurosyphilis: a case report'
-  authors:
-  - Toptan T
-  - Ozdilek B
-  - Kenangil G
-  - Ulker M
-  - Domac FM
-  publisher: Northern clinics of Istanbul
-  date: '2015-01-01'
-  link: https://doi.org/10.14744/nci.2015.96268
 - id: pmid-25271323
   title: Human DNA tumor viruses generate alternative reading frame proteins through
     repeat sequence recoding

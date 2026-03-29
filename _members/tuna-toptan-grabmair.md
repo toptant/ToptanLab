@@ -2,7 +2,8 @@
 name: Tuna Toptan Grabmair
 image: images/member-tuna-toptan.png
 role: principal-investigator
-description: Dr. med., Group Leader
+date: 2000-01-03
+description: Dr. med., Principal Investigator
 affiliation: Technical University of Munich
 links:
   email: tuna.toptan@tum.de

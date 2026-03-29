@@ -2,6 +2,7 @@
 name: Matteo Rizzato
 image: images/member-matteo-rizzato.jpeg
 role: postdoc
+date: 2000-01-02
 description: PhD, Postdoctoral Researcher
 affiliation: Technical University of Munich
 links:
